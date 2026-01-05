@@ -1,7 +1,7 @@
 # DeAundrie T. Howard  
 **IT Specialist | Systems Support | Networking & Cloud Foundations**
 
-Welcome to my GitHub. I’m an IT Specialist with hands-on experience in systems support, networking fundamentals, virtualization, Linux administration, and cloud platforms. I build labs, automate workflows, analyze data, and strengthen my technical foundation as I advance toward Network Engineering and Cloud Engineering roles.
+Welcome to my GitHub. I’m an IT Specialist in Lansing, MI with hands-on experience in systems support, networking fundamentals, virtualization, Linux administration, and cloud platforms. I build labs, automate workflows, analyze data, and strengthen my technical foundation as I advance toward Network Engineering and Cloud Engineering roles.
 
 ### 🔗 Professional Links  
 - **Portfolio Site:** https://dhowardtech.github.io  
@@ -44,11 +44,7 @@ Welcome to my GitHub. I’m an IT Specialist with hands-on experience in systems
 
 # 🌱 I’m Currently Learning  
 - Cloud engineering (AWS, GCP, Azure)  
-- <img height="20" src="https://images.credly.com/size/680x680/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png"> CompTIA A+  
-- <img height="20" src="https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logonetworkplus.svg"> Network+  
-- Arabic  
-- Cooking  
-- <img height="20" src="https://cdn2.steamgriddb.com/icon/7316e11fe78963395fbab4a85d0b8f85/32/256x256.png"> Becoming an Elden Lord  
+- <img height="20" src="https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logonetworkplus.svg"> Network+   
 
 ---
 
