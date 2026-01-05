@@ -1,7 +1,7 @@
 # DeAundrie T. Howard  
 **IT Specialist | Systems Support | Networking & Cloud Foundations**
 
-Welcome to my GitHub. I’m an IT Specialist in Lansing, MI with hands-on experience in systems support, networking fundamentals, virtualization, Linux administration, and cloud platforms. I build labs, automate workflows, analyze data, and strengthen my technical foundation as I advance toward Network Engineering and Cloud Engineering roles.
+I'm DeAundrie T. Howard, an IT Specialist based in Lansing, Michigan. I support high-demand manufacturing environments, troubleshooting hardware, Windows systems, and network issues. This portfolio documents my technical projects and growth toward Network Engineering and Cloud Engineering roles.
 
 ### 🔗 Professional Links  
 - **Portfolio Site:** https://dhowardtech.github.io  
